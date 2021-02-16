@@ -1,0 +1,4 @@
+Host panupong-ssh
+	HostName 68.183.181.121
+	IdentityFile ./my-key.pem
+	User panupongdeve
